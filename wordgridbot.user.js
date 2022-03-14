@@ -4,7 +4,7 @@
 // @version     0.0.3
 // @author      tianshuo
 // @description Find answers for Word Grid Game
-// @supportURL  https://github.com/tianshuo/wordgridbotissues
+// @supportURL  https://github.com/tianshuo/wordgridbot/issues
 // @match       *://metzger.media/games/word-grid/*
 // @license     MIT
 // @grant       none
